@@ -1,2 +1,0 @@
-# rentalz
-todo app
